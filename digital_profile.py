@@ -1,3 +1,5 @@
+import streamlit as st
+
 st.title("My dijitan Profile")
 
 st.header("แนะนำตัว")
