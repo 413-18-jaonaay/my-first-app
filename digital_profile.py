@@ -1,4 +1,4 @@
- st.title("My dijitan Profile")
+st.title("My dijitan Profile")
 
 st.header("แนะนำตัว")
 st.write("น.ส. เจ้านาย เนตรทิพย์")
