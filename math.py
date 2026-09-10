@@ -4,7 +4,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 st.set_page_config(page_title="เกมบวกลบเลขจับเวลา")
-st.title("➕➖ เกมบวกลบเลขจับเวลา")
+st.title("➕➖ คิดสิคิดสิได้เท่าไหร่?")
 
 # ระดับความยาก: กำหนดช่วงตัวเลขตามหลัก
 LEVELS = {
